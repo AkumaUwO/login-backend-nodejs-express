@@ -1,0 +1,32 @@
+{
+  "name": "backend-login",
+  "version": "1.0.0",
+  "description": "Backend de login en nodeJS",
+  "keywords": [
+    "login",
+    "nodejs",
+    "expressjs",
+    "mongoose",
+    "jtw",
+    "bcrypt"
+  ],
+  "homepage": "https://github.com/AkumaUwO/login-backend-nodejs-express#readme",
+  "bugs": {
+    "url": "https://github.com/AkumaUwO/login-backend-nodejs-express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkumaUwO/login-backend-nodejs-express.git"
+  },
+  "license": "ISC",
+  "author": "Akuma",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  }
+}
